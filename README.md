@@ -39,4 +39,4 @@ Lua 5.5.1  Copyright (C) 1994-2026 Lua.org, PUC-Rio
 有問題的 (problematic)
 ```
 
-We open a file a path and contents that contain utf8 and it works as expected on Windows.
+We open a file with a path and contents that contain utf8 and it works as expected on Windows.
