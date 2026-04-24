@@ -27,3 +27,16 @@ Each of these has four configurations:
 2. "Release": build a release version using C
 3. "CPP Debug": build a debug version using CPP
 4. "CPP Release": build a release version using CPP
+
+### What "improved utf8" support?
+
+Here's an example of what now works that didn't before:
+```
+./lua.exe
+Lua 5.5.1  Copyright (C) 1994-2026 Lua.org, PUC-Rio
+> f = io.open("C:\\有問題的\\a.txt", "r")
+> print(f:read("*all"))
+有問題的 (problematic)
+```
+
+We open a file a path and contents that contain utf8 and it works as expected on Windows.
