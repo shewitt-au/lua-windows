@@ -1,6 +1,6 @@
 ## Lua for Windows
 
-The aim of this repo is to get Lua working on Windows better. It is a newborn project to a lot has been done so far.
+The aim of this repo is to get Lua working on Windows better. It is a newborn project so not a lot has been done so far.
 
 ### What has been done
 
