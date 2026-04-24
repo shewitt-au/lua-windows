@@ -18,7 +18,7 @@ Navigate to ".\build-systems\visual-studio-2022" and load the solution (lua.sln)
 
 There are muplitple projects:
 1. "lua_dll": lua is built as a dll
-2. "lua_static": lua is build as a static library
+2. "lua_static": lua is built as a static library
 3. "luacli_dll": the standalone interpreter using lua via a dll
 4. "luacli_static": the standalone interpreter statically linking to lua
 
