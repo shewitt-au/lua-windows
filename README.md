@@ -23,7 +23,7 @@ There are muplitple projects:
 4. "luacli_static": the standalone interpreter statically linking to lua
 
 Each of these has four configurations:
-1. "Debug": build a debug version using c
-2. "Release": build a release version using c
-3. "CPP Debug": build a debug version using cpp
-4. "CPP Release": build a release version using c
+1. "Debug": build a debug version using C
+2. "Release": build a release version using C
+3. "CPP Debug": build a debug version using CPP
+4. "CPP Release": build a release version using CPP
