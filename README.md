@@ -40,3 +40,6 @@ Lua 5.5.1  Copyright (C) 1994-2026 Lua.org, PUC-Rio
 ```
 
 We open a file with a path and contents that contain utf8 and it works as expected on Windows.
+
+## Download executables
+See [releases](https://github.com/shewitt-au/lua-windows/releases)
