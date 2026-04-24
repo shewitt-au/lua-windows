@@ -9,7 +9,7 @@ The aim of this repo is to get Lua working on Windows better. It is a newborn pr
 
 ### Building
 
-First pull the repo. Lua is included as a submodule to be sure to use the recurse submodules option:
+First pull the repo. Lua is included as a submodule so be sure to use the recurse submodules option:
 ```
 git clone --recurse-submodules https://github.com/shewitt-au/lua-windows.git
 ```
