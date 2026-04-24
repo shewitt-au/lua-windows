@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\lua\lua.c">
+    <ClCompile Include="..\..\..\lua\lua.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
